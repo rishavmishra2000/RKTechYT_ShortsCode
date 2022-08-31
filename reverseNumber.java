@@ -1,3 +1,6 @@
+// Must watch --> https://www.youtube.com/shorts/v6RH_W7RBXE
+// Like, share and subscribe my channel
+
 import java.util.Scanner;
 public class Main {
 	public static void main(String[] args) {
