@@ -1,3 +1,6 @@
+// Must watch --> https://www.youtube.com/shorts/17bAj56mcNA
+// Like, share and subscribe my channel
+
 public class halfPyramid {
 	public static void main(String[] args) {
 		int x = 5;
